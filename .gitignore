@@ -3,3 +3,12 @@
 __init__.py
 *.pyc
 __pycache__/
+
+reports/Partie 1 - Search agent/*
+!reports/Partie 1 - Search agent/report.pdf
+
+reports/Partie 2 - Minimax agent/*
+!reports/Partie 2 - Minimax agent/report.pdf
+
+reports/Partie 3 - Bayesian filter/*
+!reports/Partie 3 - Bayesian filter/report.pdf
