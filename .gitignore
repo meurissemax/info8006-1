@@ -1,14 +1,14 @@
+##########
+# System #
+##########
+
+# macOS
 .DS_Store
 
-__init__.py
+
+##########
+# Python #
+##########
+
+**/__pycache__/
 *.pyc
-__pycache__/
-
-reports/Partie 1 - Search agent/*
-!reports/Partie 1 - Search agent/report.pdf
-
-reports/Partie 2 - Minimax agent/*
-!reports/Partie 2 - Minimax agent/report.pdf
-
-reports/Partie 3 - Bayesian filter/*
-!reports/Partie 3 - Bayesian filter/report.pdf
